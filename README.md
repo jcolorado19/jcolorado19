@@ -1,12 +1,13 @@
 ### Hi there 👋🏽, my name is Jhon Colorado
-I'm a **Front-end Developer** from Colombia living in Colombia.
+I'm from Colombia living in Colombia.
 
-I will mention some of the technologies and languages that I use: HTML, CSS, SASS, Web Accessibility, JQuery, JavaScript, ReactJS, MySQL, Docker and currently learning NextJS, UX and English.
+I am a dedicated Front-End Developer currently advancing my career with a degree in Systems Engineering 💻. With over four years of experience in the fast-paced IT industry, I have honed substantial expertise in Frontend technologies, coupled with an eager interest and willingness to broaden my skill set into Backend development.
 
-Passionate about technology 💻, I am always interacting, reading and researching about new technologies, reviewing topics and languages that I already know.
+I am known for my collaborative approach, always ready to contribute to my team’s success. A relentless pursuit of excellence and continuous learning are the cornerstones of my professional growth. This philosophy has enabled me to stay at the forefront of an ever-changing field.
 
-- 🔭 I'm currently working on a small personal application with ReactJS
-- 🌱 I'm currently training in NextJS, UX and English
+My professional journey has provided me with diverse perspectives, owing to my roles in sectors such as healthcare and the import-export industry, among others. These experiences have broadened my view and skill set, allowing me to understand and adapt to the varying needs and challenges of each area.
+
+- 🌱 Currently, I am advancing in system engineering and studying English
 
 
 
